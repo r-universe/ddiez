@@ -1,11 +1,5 @@
 [
   {
     "package": "codelink"
-  },
-  {
-    "package": "rTRM"
-  },
-  {
-    "package": "rTRMui"
   }
 ]
